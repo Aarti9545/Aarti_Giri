@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aarti9545
+- 👋 Hi, I’m @Aarti
 - 👀 I’m interested in html,css &javascript.
 - 🌱 I’m currently learning front end development..
 - 💞️ I’m looking to collaborate on .
